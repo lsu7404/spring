@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+#title {
+	color:rgb(128, 0, 128);
+	margin-top:30px;
+	margin-bottom:20px;
+	}
+	
+#joinForm {
+	position:relative;
+	width:600px;
+	height:500px;
+}
+
+#joinForm table {
+	width:600px;
+	text-align:left;
+	}
+	
+#joinForm table th {
+	width:100px;
+	height:30px;
+	line-height:30px;
+	text-align:right;
+	padding-right:5px;
+	}
+
+#joinForm table td {
+	text-align:left;
+	padding-left:5px;
+	}
+
+#joinForm table td{
+	border-bottom:dotted 1px #333333;
+	}
+	
+#joinForm table #button {
+	text-align:center;
+	border:none;
+	}
+	
